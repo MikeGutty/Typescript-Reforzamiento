@@ -12,7 +12,13 @@ import { setupCounter } from './counter.ts'
 // import './bases/imp-exp';
 // import './bases/promises';
 // import './bases/fetch-api';
-import './bases/async-await';
+// import './bases/async-await';
+// import './Ejercicios/ejercicio1.ts';
+// import './Ejercicios/ejercicio2.ts';
+// import './Ejercicios/ejercicio3.ts'; 
+// import './Ejercicios/ejercicio4.ts';
+import './Ejercicios/ejercicio5.ts';
+
 
 document.querySelector<HTMLDivElement>('#app')!.innerHTML = `
   <div>
